@@ -1,9 +1,7 @@
 <?php
 
-
-
-echo 'hello word';23
-echo 'my is zhaoyufeng';12
+echo 'hello word';5566
+echo 'my is zhaoyufeng';7788
 echo 2333;
 echo 11111;
 echo 23333333333;
